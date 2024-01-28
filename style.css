@@ -50,12 +50,12 @@ body {
 
 .container .wrapper .product-description h1{
     font-family: 'Fraunces', serif ;
-    font-size: 3rem;
-    margin: 2rem 0;
+    font-size: 2rem;
+    margin: 1.5rem 0;
 }
 
 .container .wrapper .product-description p{
-    font-size: 1.4rem;
+    font-size: 1.1rem;
     line-height: 1.8;
     color: var(--dark-grayish-blue);
 }
