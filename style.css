@@ -15,7 +15,7 @@ body {
 }
 
 .container {
-    padding: 2.8rem;
+    padding: 1.5rem;
 }
 
 .container .wrapper {
@@ -63,19 +63,19 @@ body {
 .container .wrapper .product-description .pricing {
     display: flex;
     align-items: center;
-    gap: 2rem;
-    margin-top: 3.5rem;
+    gap: 1.2rem;
+    margin-top: 3rem;
     margin-bottom: 2.3rem;
 }
 
 .container .wrapper .product-description .pricing h2 {
     font-family: 'Fraunces', serif ;
-    font-size: 3rem;
+    font-size: 1.7rem;
     color: var(--dark-cyan);
 }
 
 .container .wrapper .product-description .pricing span {
-    font-size: 1.6rem;
+    font-size: 1.2rem;
     color: var(--dark-grayish-blue);
     text-decoration: line-through;
 }
